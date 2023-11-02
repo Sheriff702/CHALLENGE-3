@@ -41,8 +41,8 @@ Users should be able to:
 ### Links
 Fylo landing page with two column layout
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Sheriff702/Fylo-landing-page-with-two-column-layout.git]
+- Live Site URL: [https://sheriff702.github.io/Fylo-landing-page-with-two-column-layout/]
 
 ## My process
 
